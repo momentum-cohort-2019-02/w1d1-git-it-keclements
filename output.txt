@@ -11,10 +11,10 @@ pipenv, version 2018.11.26
 
 
 
-had to do pc
+~had to do pc~
 
 
-C:\Users\Kristin\w1d1-git-it-keclements (master -> origin)
-λ which git
-/cmd/git
+~C:\Users\Kristin\w1d1-git-it-keclements (master -> origin)~
+~λ which git~
+~/cmd/git~
 
