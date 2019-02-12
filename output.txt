@@ -1,1 +1,7 @@
 had to do pc
+
+
+C:\Users\Kristin\w1d1-git-it-keclements (master -> origin)
+λ which git
+/cmd/git
+
