@@ -1,0 +1,8 @@
+➜  ~ cd w1d1-git-it-keclements
+➜  w1d1-git-it-keclements git:(master) ls
+README.md
+➜  w1d1-git-it-keclements git:(master) pwd
+/Users/kristin/w1d1-git-it-keclements
+➜  w1d1-git-it-keclements git:(master) touch output.txt
+➜  w1d1-git-it-keclements git:(master) ✗ ls
+README.md  output.txt
